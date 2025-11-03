@@ -1,6 +1,6 @@
 # Definição de variáveis (ambiente "local" do REST Client)
-@base_url = https://SEU-CODESPACE-URL-8080.githubpreview.dev
-@peer_url = https://COLEGA-CODESPACE-URL-8080.githubpreview.dev
+@base_url = https://infamous-spooky-specter-q59g9pp9rrj34qx7-8080.app.github.dev
+@peer_url = https://super-duper-space-goggles-v7xrjq7jjgpcww47-8080.app.github.dev
 
 ###
 ### 1) Verifica NTP local (útil para checar offset no servidor)
